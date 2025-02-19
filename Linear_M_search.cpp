@@ -20,7 +20,7 @@ int main () {
     if (found) {
         cout << endl;
     } else {
-        cout << "Value not found in the array." << endl;
+        cout << "Not found!." << endl;
     }
 
     cout <<endl;
