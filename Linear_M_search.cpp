@@ -26,3 +26,7 @@ int main () {
     cout <<endl;
     return 0;
 }
+/*
+Enter the value to search: 10
+The value is found at positions: 1 3 5 7
+*/

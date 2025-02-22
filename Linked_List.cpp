@@ -34,10 +34,14 @@ int main() {
         cout << tptr ->data << " ";
         
 
-        cout << tptr << " ";
+        cout << "Address:"<< tptr << " ";
         tptr = tptr ->next;
 
 
     }
     return 0;
 }
+/*
+Insert items: 10 20 30
+Linked List: 10 Address:0x1051850 20 Address:0x1051860 30 Address:0x1051718 
+*/
